@@ -4,3 +4,4 @@
 https://www.ivvpn.com/register?aff=64
 邮箱接受验证码即可登录获取shadowsocks账号
 
+有任何问题请提交Issues
